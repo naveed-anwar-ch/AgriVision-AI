@@ -1,0 +1,11 @@
+streamlit
+requests
+groq
+streamlit-option-menu
+streamlit-mic-recorder
+gTTS
+SpeechRecognition
+numpy
+Pillow
+pandas
+tensorflow
