@@ -8,4 +8,4 @@ SpeechRecognition
 numpy
 Pillow
 pandas
-tensorflow
+tensorflow==2.16.1
